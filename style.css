@@ -5,13 +5,13 @@ body {
     margin: 0.25% auto;
     color: #fff;
     width: 99.25%;
-    border-width: 1px;
+    /*border-width: 1px;
     border-radius: 3px;
     outline-width: 0.125%;
     outline-color: #f4bccd;
     outline-style: auto;
     border-color: #f4bccd;
-    text-align: center;
+    text-align: center;*/
 }
 .container {
     display:grid;
