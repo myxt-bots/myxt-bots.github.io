@@ -1,0 +1,20 @@
+body {
+    background-color: #0d0312;
+}
+.top {
+    margin: 0.25% auto;
+    color: #fff;
+    width: 99.25%;
+    border-width: 1px;
+    border-radius: 3px;
+    outline-width: 0.125%;
+    outline-color: #f4bccd;
+    outline-style: auto;
+    border-color: #f4bccd;
+    text-align: center;
+}
+.container {
+    display:grid;
+    grid-template-columns: 99.25%;
+    grid-template-rows: 60% 39%;
+}
