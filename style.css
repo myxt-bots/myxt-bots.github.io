@@ -5,6 +5,8 @@ body {
     margin: 0.25% auto;
     color: #fff;
     width: 99.25%;
+    font-size: 20px;
+    font-family: 'Oswald', arial;
     /*border-width: 1px;
     border-radius: 3px;
     outline-width: 0.125%;
@@ -12,6 +14,9 @@ body {
     outline-style: auto;
     border-color: #f4bccd;
     text-align: center;*/
+}
+h1 {
+    font-size: 32px;
 }
 .container {
     display:grid;
