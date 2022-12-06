@@ -41,6 +41,8 @@ body {
     background: linear-gradient(to bottom right, lightblue, white);
     border-width: 0;
     border-radius: 3px;
+    font-size: 30px;
+    font-family: courier;
 }
 .tryit:hover {
     text-align: center;
@@ -49,6 +51,8 @@ body {
     background: linear-gradient(to bottom right, lightblue, lightblue);
     border-width: 0;
     border-radius: 3px;
+    font-size: 30px;
+    font-family: courier;
 }
 .tryit:clicked {
     text-align: center;
@@ -57,6 +61,8 @@ body {
     background: linear-gradient(to bottom right, blue, lightblue);
     border-width: 0;
     border-radius: 3px;
+    font-size: 30px;
+    font-family: courier;
 }
 
 .button {
