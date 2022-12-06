@@ -48,6 +48,7 @@ body {
 }
 .tryit:hover {
     text-align: center;
+    position: relative;
     width: 200px;
     height: 150px;
     background: linear-gradient(to bottom right, lightblue, lightblue);
@@ -55,10 +56,12 @@ body {
     border-radius: 3px;
     font-size: 30px;
     font-family: courier;
+    left: -5px;
+    bottom: -5px;
     box-shadow: 5px 5px 5px #ddd;
     
 }
-.tryit:onclick {
+.tryit:active {
     text-align: center;
     width: 200px;
     height: 150px;
