@@ -54,7 +54,7 @@ body {
     font-size: 30px;
     font-family: courier;
 }
-.tryit:clicked {
+.tryit:active {
     text-align: center;
     width: 200px;
     height: 150px;
