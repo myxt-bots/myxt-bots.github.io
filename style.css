@@ -25,6 +25,15 @@ body {
     border-color: #f4bccd;
     text-align: center;*/
 }
+.bottom {
+    margin: 0.25% auto;
+    color: #fff;
+    width: 99.25%;
+    font-size: 12px;
+    font-family: arial;
+    bottom: 0px;
+}
+
 h1 {
     font-size: 32px;
 }
