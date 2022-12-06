@@ -43,6 +43,8 @@ body {
     border-radius: 3px;
     font-size: 30px;
     font-family: courier;
+    transition-duration: 0.5s;
+    box-shadow: 0px 2px #ddd;
 }
 .tryit:hover {
     text-align: center;
@@ -53,8 +55,10 @@ body {
     border-radius: 3px;
     font-size: 30px;
     font-family: courier;
+    box-shadow: 0px 5px #ddd;
+    
 }
-.tryit:active {
+.tryit:onclick {
     text-align: center;
     width: 200px;
     height: 150px;
@@ -63,6 +67,7 @@ body {
     border-radius: 3px;
     font-size: 30px;
     font-family: courier;
+    box-shadow: none;
 }
 
 .button {
