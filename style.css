@@ -44,7 +44,7 @@ body {
     font-size: 30px;
     font-family: courier;
     transition-duration: 0.5s;
-    box-shadow: 2px #ddd;
+    box-shadow: 0px 5px #ddd;
 }
 .tryit:hover {
     text-align: center;
@@ -57,7 +57,7 @@ body {
     font-size: 30px;
     font-family: courier;
     transform: translateY(-5px);
-    box-shadow: 5px 0px #ddd;
+    box-shadow: 0px 5px #ddd;
     
 }
 .tryit:active {
