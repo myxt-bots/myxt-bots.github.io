@@ -26,6 +26,7 @@ body {
     text-align: center;*/
 }
 .bottom {
+    position: fixed;
     margin: 0.25% auto;
     color: #fff;
     width: 99.25%;
